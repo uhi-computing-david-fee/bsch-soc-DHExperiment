@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bsch-soc-DHExperiment", "bsch-soc-DHExperiment\bsch-soc-DHExperiment.csproj", "{9FAE07CD-BC07-4449-9968-FA4ADC60A9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FAE07CD-BC07-4449-9968-FA4ADC60A9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAE07CD-BC07-4449-9968-FA4ADC60A9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAE07CD-BC07-4449-9968-FA4ADC60A9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAE07CD-BC07-4449-9968-FA4ADC60A9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57029166-BFDB-4822-86B9-220C9A790536}
+	EndGlobalSection
+EndGlobal
